@@ -73,11 +73,11 @@ Also explain the input, output, and important constraints.
 If you do not fully understand the problem yet, write what you currently understand. Your understanding may be incomplete or incorrect, but you must make a genuine attempt.
 
 ```text
-
-```
 the problem required you to write a code that determine whether the score is surprising or not based on 2 inputs by way of whether it is possible that the difference between the highest and lowest is above 2
 the inputs are the total score and the max score
 the outputs are "Surprising" or "Not Surprising" based on whether it is possible that the difference between the highest score and lowest score is above 2 or not
+```
+
 --
 
 ## 3. My First Plan
